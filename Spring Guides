@@ -1,0 +1,43 @@
+Build a RESTful web service
+Build a RESTful web service with Spring Boot Actuator
+Build a RESTful web service(Hypermedia-Driven)
+Consume a RESTful web service
+Consume a RESTful web service with jQuery
+Consumer Driven Contracts
+
+Schedule Tasks
+Create a Batch Service
+
+Form Validation
+Form Submission
+
+Serving Web Content - Spring MVC
+
+Access Relational Database - Spring JDBC
+Access Data with JPA 
+Access Data with Neo4j - NoSQL data store
+Access Data with MongoDB
+Access Data in Pivotal GemFire
+Caching Data with Pivotal GemFire
+Access Data Reactively with Redis
+
+Upload Files
+
+User authentication with LDAP
+Secure a Web Application
+
+Messaging with JMS
+Messaging with Redis as Message Broker
+Messaging with Rabbit MQ - Publish and Subscribe
+
+Integrating Data - Fetch,Process,Write
+
+Managing Transactions
+
+Building a Gateway
+
+Vault Configuration
+Access Vault
+
+Deploy Spring Boot app to Azure
+
