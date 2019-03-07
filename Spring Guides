@@ -1,8 +1,15 @@
 Build a RESTful web service
 Build a RESTful web service with Spring Boot Actuator
 Build a RESTful web service(Hypermedia-Driven)
+Building a Reactive RESTful Web Service
 Consume a RESTful web service
+Consume a RESTful web service with AngularJS
 Consume a RESTful web service with jQuery
+Consume a RESTful web service with rest.js
+Enabling Cross Origin Requests for a RESTful Web service
+
+Producing a SOAP web service
+Consuming a SOAP web service
 Consumer Driven Contracts
 
 Schedule Tasks
@@ -14,12 +21,21 @@ Form Submission
 Serving Web Content - Spring MVC
 
 Access Relational Database - Spring JDBC
-Access Data with JPA 
+Access Data with JPA
+Acessing JPA Data with REST
 Access Data with Neo4j - NoSQL data store
+Acessing Neo4j Data with REST
 Access Data with MongoDB
+Acessing MongoDB Data with REST
 Access Data in Pivotal GemFire
-Caching Data with Pivotal GemFire
+Acessing Data in Pivotal GemFire with REST
+Accessing Data with MySQL
 Access Data Reactively with Redis
+Creating CRUD UI with Vaadin
+
+Caching Data with Spring
+Caching Data with Pivotal GemFire
+
 
 Upload Files
 
@@ -29,15 +45,37 @@ Secure a Web Application
 Messaging with JMS
 Messaging with Redis as Message Broker
 Messaging with Rabbit MQ - Publish and Subscribe
+Messaging with Google Cloud Pub/Sub
 
 Integrating Data - Fetch,Process,Write
 
 Managing Transactions
+Creating Asynchronous Methods
 
 Building a Gateway
-
+Circuit Breaker
+Centralized Configuration
 Vault Configuration
-Access Vault
+Accessing Vault
+Client Side Load Balancing with Ribbon and Spring Cloud
+
+Testing the Web Layer
+
+Using WebSocket to build an interactive web application
 
 Deploy Spring Boot app to Azure
+Deploying to Cloud Foundry from STS
+Spring Boot with Docker
 
+Routing and Filtering
+Service Registration and Discovery
+
+Working a Getting Started guide with STS
+Working a Getting Started guide with IntelliJ IDEA
+Build Java Projects with Maven
+Build Java Projects with Gradle
+Building an Application with Spring Boot
+Creating a Multi Module Project
+Creating API Documentation with RESTdocs
+
+Converting a Spring Boot JAR Application to a WAR
